@@ -95,7 +95,7 @@ qpcr_blood_panel = RequisitionPanel(
 
 qpcr23_blood_panel = RequisitionPanel(
     name='qpcr23',
-    verbose_name='qPCR Blood (23hr)',
+    verbose_name='qPCR Blood (24hr)',
     aliquot_type=wb,
     processing_profile=qpcr_blood_processing)
 
